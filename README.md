@@ -1,4 +1,4 @@
-# 👋 Olá! Eu sou o Roberth Guimaro  
+# 👋 Olá! Eu sou Roberth Guimaro  
 
 🎯 **Objetivo:** Atuar como **Analista de QA Júnior**, garantindo a qualidade de produtos digitais por meio de testes manuais, automatizados e de APIs, assegurando entregas estáveis e confiáveis.  
 
@@ -22,7 +22,18 @@ Meu foco é trabalhar com atenção aos detalhes, garantindo que o software entr
 - Validação de **APIs REST** com Postman  
 - Execução de testes **funcionais, de regressão e exploratórios**  
 - Testes mobile com **Android Studio**  
-- Gestão de bugs e fluxos de QA com **Jira**  
+- Gestão de bugs e fluxos de QA com **Jira** 
+
+🔹 **Repositórios Recentes**  
+- QA-Brazil_Python_Automation — Automação de testes em Python  
+- QA-Brazil_S8-POM-Tasks — Estrutura de testes automatizados com Page Object Model  
+- QA-Brazil_S8-Tasks — Exercícios e práticas de QA em Python 
+
+---
+
+## 📫 Contato  
+- **LinkedIn:** [linkedin.com/in/roberthguimaro](https://www.linkedin.com/in/roberthguimaro)  
+- **E-mail:** guimaroroberth@gmail.com
 
 ---
 
@@ -38,11 +49,4 @@ Meu foco é trabalhar com atenção aos detalhes, garantindo que o software entr
 
 ## 📊 Estatísticas do GitHub  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=RoberthGuimaro&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthGuimaro&layout=compact&theme=tokyonight)  
-
----
-
-## 📫 Contato  
-- **LinkedIn:** [linkedin.com/in/roberthguimaro](https://www.linkedin.com/in/roberthguimaro)  
-- **E-mail:** guimaroroberth@gmail.com  
-- **GitHub:** [github.com/roberthguimaro](https://github.com/roberthguimaro)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthGuimaro&layout=compact&theme=tokyonight)
