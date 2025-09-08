@@ -1,29 +1,48 @@
-# 👨‍💻 Roberth Guimaro
+# 👋 Olá! Eu sou o Roberth Guimaro  
 
-Sou **professor de TI e desenvolvedor Python**, apaixonado por tecnologia e aprendizado contínuo.  
-Atualmente, foco em **automação, ensino de programação para jovens** e boas práticas de desenvolvimento.
-
----
-
-### 🛠️ Tecnologias & Ferramentas
-![Python](https://img.shields.io/badge/-Python-333?style=for-the-badge&logo=python)
-![Git](https://img.shields.io/badge/-Git-333?style=for-the-badge&logo=git)
-![VSCode](https://img.shields.io/badge/-VSCode-333?style=for-the-badge&logo=visual-studio-code)
-![Excel](https://img.shields.io/badge/-Excel-333?style=for-the-badge&logo=microsoft-excel)
+🎯 **Objetivo:** Atuar como **Analista de QA Júnior**, garantindo a qualidade de produtos digitais por meio de testes manuais, automatizados e de APIs, assegurando entregas estáveis e confiáveis.  
 
 ---
 
-### 📊 Estatísticas do GitHub
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RoberthGuimaro&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthGuimaro&layout=compact&theme=tokyonight)
+## 🧩 Perfil Profissional  
+Com sólida compreensão dos princípios e processos de **Quality Assurance**, tenho experiência em:  
+- Criação e execução de **casos de teste funcionais, exploratórios e de regressão**  
+- **Testes de APIs** com Postman  
+- **Automação de testes** com Python, Pytest e Selenium  
+- Testes de **aplicativos móveis** utilizando Android Studio  
+- Gestão de bugs e rastreabilidade com **Jira**  
+
+Meu foco é trabalhar com atenção aos detalhes, garantindo que o software entregue atenda aos mais altos padrões de qualidade.  
 
 ---
 
-### 🚀 Projetos em Destaque
-- [PyTools](https://github.com/RoberthGuimaro/PyTools)  
-- [Exercises](https://github.com/RoberthGuimaro/Exercises)  
-- [pythonbirds](https://github.com/RoberthGuimaro/pythonbirds)  
+## 🚀 Projetos Técnicos  
+🔹 **Bootcamp QA – TripleTen (2025)**  
+- Automação de testes com **Python, Pytest e Selenium**  
+- Validação de **APIs REST** com Postman  
+- Execução de testes **funcionais, de regressão e exploratórios**  
+- Testes mobile com **Android Studio**  
+- Gestão de bugs e fluxos de QA com **Jira**  
 
 ---
 
-📫 **Contato:** [LinkedIn](seu-link) | [Email](mailto:seuemail@exemplo.com)
+## 🛠️ Habilidades Técnicas  
+
+- **Testes:** Manuais | Automatizados | Regressão | Mobile | API | UI | Debugging | Documentação  
+- **Automação:** Python | Pytest | Selenium | WebDriverIO  
+- **Ferramentas de QA:** Jira | Postman | DevTools | Figma  
+- **Banco de Dados & Linguagens:** SQL | JSON  
+- **Infraestrutura & Versionamento:** Git | GitHub | Bash  
+
+---
+
+## 📊 Estatísticas do GitHub  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=RoberthGuimaro&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthGuimaro&layout=compact&theme=tokyonight)  
+
+---
+
+## 📫 Contato  
+- **LinkedIn:** [linkedin.com/in/roberthguimaro](https://www.linkedin.com/in/roberthguimaro)  
+- **E-mail:** guimaroroberth@gmail.com  
+- **GitHub:** [github.com/roberthguimaro](https://github.com/roberthguimaro)  
