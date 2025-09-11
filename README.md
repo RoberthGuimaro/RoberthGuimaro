@@ -25,9 +25,7 @@ Meu foco é trabalhar com atenção aos detalhes, garantindo que o software entr
 - Gestão de bugs e fluxos de QA com **Jira** 
 
 🔹 **Repositórios Recentes**  
-- QA-Brazil_Python_Automation — Automação de testes em Python  
-- QA-Brazil_S8-POM-Tasks — Estrutura de testes automatizados com Page Object Model  
-- QA-Brazil_S8-Tasks — Exercícios e práticas de QA em Python 
+- TripleTen_Analyst_QA_Projeto_Final_Automacao_de_Testes  — Automação de testes em Python  
 
 ---
 
