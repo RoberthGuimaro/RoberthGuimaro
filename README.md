@@ -30,7 +30,7 @@ Meu foco é trabalhar com atenção aos detalhes, garantindo que o software entr
 ---
 
 ## 📫 Contato  
-- **LinkedIn:** [linkedin.com/in/roberthguimaro](https://www.linkedin.com/in/roberthguimaro)  
+- **LinkedIn:** [linkedin.com/in/roberth-guimaro](https://www.linkedin.com/in/roberthguimaro)  
 - **E-mail:** guimaroroberth@gmail.com
 
 ---
