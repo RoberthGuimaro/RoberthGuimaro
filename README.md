@@ -1,50 +1,71 @@
-# 👋 Olá! Eu sou Roberth Guimaro  
+# Olá! Eu sou Roberth Guimaro
 
-🎯 **Objetivo:** Atuar como **Analista de QA Júnior**, garantindo a qualidade de produtos digitais por meio de testes manuais, automatizados e de APIs, assegurando entregas estáveis e confiáveis.  
+**QA Analyst | Testes Manuais | API Testing | Automação de Testes**
 
----
+Atuo com foco em qualidade de software, cobrindo testes manuais, exploratórios, regressivos, validação de APIs e automação de testes. Busco construir entregas confiáveis, com atenção aos detalhes, boa documentação e visão prática de produto.
 
-## 🧩 Perfil Profissional  
-Com sólida compreensão dos princípios e processos de **Quality Assurance**, tenho experiência em:  
-- Criação e execução de **casos de teste funcionais, exploratórios e de regressão**  
-- **Testes de APIs** com Postman  
-- **Automação de testes** com Python, Pytest e Selenium  
-- Testes de **aplicativos móveis** utilizando Android Studio  
-- Gestão de bugs e rastreabilidade com **Jira**  
-
-Meu foco é trabalhar com atenção aos detalhes, garantindo que o software entregue atenda aos mais altos padrões de qualidade.  
+Atualmente, estou desenvolvendo projetos voltados para:
+- testes funcionais e exploratórios em aplicações web;
+- validação de APIs com Postman;
+- automação de testes com Python, Pytest e Selenium;
+- documentação de bugs, cenários e casos de teste;
+- análise de qualidade com foco em experiência do usuário e estabilidade.
 
 ---
 
-## 🚀 Projetos Técnicos  
-🔹 **Bootcamp QA – TripleTen (2025)**  
-- Automação de testes com **Python, Pytest e Selenium**  
-- Validação de **APIs REST** com Postman  
-- Execução de testes **funcionais, de regressão e exploratórios**  
-- Testes mobile com **Android Studio**  
-- Gestão de bugs e fluxos de QA com **Jira** 
+## Projetos em destaque
 
-🔹 **Repositórios Recentes**  
-- TripleTen_Analyst_QA_Projeto_Final_Automacao_de_Testes  — Automação de testes em Python  
+### QA Maracaju Speed
+Projeto autoral de QA focado no portal Maracaju Speed, com análise funcional, cenários de teste, checklist de regressão, documentação de bugs e evidências de execução.
+
+### Projetos de QA - TripleTen
+Repositórios com práticas de testes manuais, API testing, testes mobile, banco de dados e automação, desenvolvidos ao longo da formação.
 
 ---
 
-## 📫 Contato  
-- **LinkedIn:** [linkedin.com/in/roberth-guimaro](https://www.linkedin.com/in/roberthguimaro)  
-- **E-mail:** guimaroroberth@gmail.com
+## Habilidades Técnicas
+
+**Testes**
+- Testes manuais
+- Testes exploratórios
+- Testes de regressão
+- Testes de API
+- Testes de UI
+- Testes mobile
+- Documentação de bugs
+- Criação de cenários e casos de teste
+
+**Automação**
+- Python
+- Pytest
+- Selenium
+- WebDriverIO
+
+**Ferramentas**
+- Postman
+- Jira
+- DevTools
+- Figma
+- Android Studio
+
+**Dados e versionamento**
+- SQL
+- JSON
+- Git
+- GitHub
+- Bash
 
 ---
 
-## 🛠️ Habilidades Técnicas  
+## Objetivo Profissional
 
-- **Testes:** Manuais | Automatizados | Regressão | Mobile | API | UI | Debugging | Documentação  
-- **Automação:** Python | Pytest | Selenium | WebDriverIO  
-- **Ferramentas de QA:** Jira | Postman | DevTools | Figma  
-- **Banco de Dados & Linguagens:** SQL | JSON  
-- **Infraestrutura & Versionamento:** Git | GitHub | Bash  
+Busco atuar como Analista de QA Júnior, contribuindo para a qualidade de produtos digitais por meio de testes bem estruturados, documentação clara e melhoria contínua dos processos de validação.
 
 ---
 
-## 📊 Estatísticas do GitHub  
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=RoberthGuimaro&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RoberthGuimaro&layout=compact&theme=tokyonight)
+## Contato
+
+- LinkedIn: [linkedin.com/in/roberth-guimaro](https://www.linkedin.com/in/roberth-guimaro)
+- E-mail: guimaroroberth@gmail.com
+
+---
