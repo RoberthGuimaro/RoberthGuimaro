@@ -16,7 +16,7 @@ Atualmente, estou desenvolvendo projetos voltados para:
 ## Projetos em destaque
 
 ### QA Maracaju Speed
-Projeto autoral de QA focado no portal Maracaju Speed, com análise funcional, cenários de teste, checklist de regressão, documentação de bugs e evidências de execução.
+Projeto de QA focado no portal Maracaju Speed, com análise funcional, cenários de teste, checklist de regressão, documentação de bugs e evidências de execução.
 
 ### Projetos de QA - TripleTen
 Repositórios com práticas de testes manuais, API testing, testes mobile, banco de dados e automação, desenvolvidos ao longo da formação.
